@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FF03&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B+I'm+Sharveswar!;CS+Student+%7C+Full-Stack+Developer+%7C+Tech+Enthusiast;Building+the+Future+one+line+of+code+at+a+time" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- Place your logo image in the root directory and name it logo.png -->
-  <img src="logo.png" width="180" alt="Sharveswar Logo"/>
-</p>
 
 ---
 
