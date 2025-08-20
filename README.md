@@ -53,17 +53,6 @@
 
 ---
 
-# 📌 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Mastering Flexbox and Grid: Modern CSS Layouts](https://dev.to/Sharveswar007/mastering-flexbox-and-grid-modern-css-layouts)
-- [Building REST APIs with Node.js & Express](https://dev.to/Sharveswar007/building-rest-apis-with-nodejs-and-express)
-- [From Vanilla JS to jQuery: DOM Manipulation Tips](https://dev.to/Sharveswar007/from-vanilla-js-to-jquery-dom-manipulation-tips)
-- [My Hackathon Experience: Lessons and Wins](https://dev.to/Sharveswar007/my-hackathon-experience-lessons-and-wins)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 # 🌟 My Tech Toolbox
 
 <p align="center">
