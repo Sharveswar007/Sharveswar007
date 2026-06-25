@@ -15,19 +15,19 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 
 <picture>
   <source srcset="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=light" alt="GitHub Stats" height="175" />
+  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=light" alt="GitHub Stats" height="220" />
 </picture>
 &nbsp;&nbsp;
 <picture>
   <source srcset="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=light" alt="Top Languages" height="175" />
+  <img src="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=light" alt="Top Languages" height="220" />
 </picture>
 
 <br/><br/>
 
 <picture>
   <source srcset="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=light" alt="Recent Activity" />
+  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=light" alt="Recent Activity" width="700" />
 </picture>
 
 </div>
@@ -40,12 +40,12 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 
 <picture>
   <source srcset="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=ssblast&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=ssblast&amp;theme=light" alt="ssblast" height="130" />
+  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=ssblast&amp;theme=light" alt="ssblast" height="160" />
 </picture>
 &nbsp;&nbsp;
 <picture>
   <source srcset="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=CareerPath&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=CareerPath&amp;theme=light" alt="CareerPath" height="130" />
+  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=CareerPath&amp;theme=light" alt="CareerPath" height="160" />
 </picture>
 
 </div>
