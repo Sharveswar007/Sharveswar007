@@ -15,7 +15,7 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 
 <picture>
   <source srcset="https://git-my-stat.vercel.app/user?username=Sharveswar007&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&theme=light" alt="GitHub Stats" height="175" />
+  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&layout=bar&theme=light" alt="GitHub Stats" height="175" />
 </picture>
 &nbsp;&nbsp;
 <picture>
@@ -66,4 +66,3 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 
 </div>
 
----
