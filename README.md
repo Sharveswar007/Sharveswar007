@@ -15,19 +15,19 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 
 <picture>
   <source srcset="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=light" alt="GitHub Stats" height="220" />
+  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=light" alt="GitHub Stats" height="280" />
 </picture>
 &nbsp;&nbsp;
 <picture>
   <source srcset="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=light" alt="Top Languages" height="220" />
+  <img src="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=light" alt="Top Languages" height="280" />
 </picture>
 
 <br/><br/>
 
 <picture>
   <source srcset="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=light" alt="Recent Activity" width="700" />
+  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=light" alt="Recent Activity" height="90" />
 </picture>
 
 </div>
@@ -64,4 +64,10 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:msharveswar220@gmail.com)
 
+</div>
+
+---
+
+<div align="center">
+<sub>Pull Shark ×2 &nbsp;·&nbsp; HackerRank 5★ C++ · 4★ Python &nbsp;·&nbsp; IEEE Member #101007137 &nbsp;·&nbsp; Salesforce Agentforce Certified &nbsp;·&nbsp; AWS Certified</sub>
 </div>
