@@ -67,7 +67,3 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 </div>
 
 ---
-
-<div align="center">
-<sub>Pull Shark ×2 &nbsp;·&nbsp; HackerRank 5★ C++ · 4★ Python &nbsp;·&nbsp; IEEE Member #101007137 &nbsp;·&nbsp; Salesforce Agentforce Certified &nbsp;·&nbsp; AWS Certified</sub>
-</div>
