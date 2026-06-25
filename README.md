@@ -14,20 +14,20 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 <div align="center">
 
 <picture>
-  <source srcset="https://git-my-stat.vercel.app/user?username=Sharveswar007&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&layout=bar&theme=light" alt="GitHub Stats" height="175" />
+  <source srcset="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://git-my-stat.vercel.app/user?username=Sharveswar007&amp;theme=light" alt="GitHub Stats" height="175" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source srcset="https://git-my-stat.vercel.app/top?username=Sharveswar007&layout=bar&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/top?username=Sharveswar007&layout=bar&theme=light" alt="Top Languages" height="175" />
+  <source srcset="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://git-my-stat.vercel.app/top?username=Sharveswar007&amp;layout=bar&amp;theme=light" alt="Top Languages" height="175" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source srcset="https://git-my-stat.vercel.app/recent?username=Sharveswar007&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&theme=light" alt="Recent Activity" />
+  <source srcset="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=light" alt="Recent Activity" />
 </picture>
 
 </div>
@@ -39,13 +39,13 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 <div align="center">
 
 <picture>
-  <source srcset="https://git-my-stat.vercel.app/repo?username=Sharveswar007&repo=ssblast&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&repo=ssblast&theme=light" alt="ssblast" height="130" />
+  <source srcset="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=ssblast&amp;theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=ssblast&amp;theme=light" alt="ssblast" height="130" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source srcset="https://git-my-stat.vercel.app/repo?username=Sharveswar007&repo=CareerPath&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&repo=CareerPath&theme=light" alt="CareerPath" height="130" />
+  <source srcset="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=CareerPath&amp;theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://git-my-stat.vercel.app/repo?username=Sharveswar007&amp;repo=CareerPath&amp;theme=light" alt="CareerPath" height="130" />
 </picture>
 
 </div>
@@ -66,3 +66,8 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 
 </div>
 
+---
+
+<div align="center">
+<sub>Pull Shark ×2 &nbsp;·&nbsp; HackerRank 5★ C++ · 4★ Python &nbsp;·&nbsp; IEEE Member #101007137 &nbsp;·&nbsp; Salesforce Agentforce Certified &nbsp;·&nbsp; AWS Certified</sub>
+</div>
