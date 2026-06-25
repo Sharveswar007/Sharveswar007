@@ -3,7 +3,7 @@
 # Sharveswar Madasamy
 
 Computer Science student at SRM IST with 2 years of hands-on project experience in full-stack and AI engineering.
-Interned at Microsoft Tata elxsi and InternsForge, led an 18-member dev team, and won a national hackathon — all before the third semester.
+Interned at Microsoft, Tata elxsi and InternsForge, led an 18-member dev team, and won a national hackathon — all before the third semester.
 
 </div>
 
