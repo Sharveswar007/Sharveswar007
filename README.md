@@ -2,8 +2,8 @@
 
 # Sharveswar Madasamy
 
-Computer Science student at SRM IST building at the intersection of AI and full-stack engineering.
-Started with HTML in 10th grade — now shipping production AI systems, leading dev teams, and winning hackathons.
+Computer Science student at SRM IST with 2 years of hands-on project experience in full-stack and AI engineering.
+Interned at Microsoft and InternsForge, led an 18-member dev team, and won a national hackathon — all before the third semester.
 
 </div>
 
@@ -27,7 +27,7 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 
 <picture>
   <source srcset="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=light" alt="Recent Activity" height="160" />
+  <img src="https://git-my-stat.vercel.app/recent?username=Sharveswar007&amp;theme=light" alt="Recent Activity" height="110" />
 </picture>
 
 </div>
@@ -65,3 +65,4 @@ Started with HTML in 10th grade — now shipping production AI systems, leading 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:msharveswar220@gmail.com)
 
 </div>
+
