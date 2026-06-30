@@ -60,7 +60,7 @@ Interned at Microsoft, Tata elxsi and InternsForge, led an 18-member dev team, a
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sharveswar007)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-sharveswar.vercel.app/portfolio-sharveswar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-sharveswar.vercel.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:msharveswar220@gmail.com)
 
